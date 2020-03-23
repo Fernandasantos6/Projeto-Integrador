@@ -1,2 +1,2 @@
-# Projeto-Integrador
-Projeto Integrador - E-commerce
+# E-commerce
+E-commerce Lojinha
