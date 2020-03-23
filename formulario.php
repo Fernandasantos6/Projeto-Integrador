@@ -76,4 +76,5 @@
         <li><a href="https://www.instagram.com/lojinhadaxiaomi/" title="Acesse Nossa Página no Instagram"><i class="fab fa-instagram"></i> Instagram</a></li>
         <li><a href="tel:+5511945041565" title="Ligar para Lojinha"><i class="fas fa-phone"></i> 11 94504-1565 </a></li>
     </ul>
+    <!-- testecc -->
 </footer>
